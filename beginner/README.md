@@ -2,21 +2,21 @@ if using microsoft, you will need to download the git bash first. Hence, prepare
 1. download git bash
 2. prepare the github account
 
------------------------------------
-Download the repo:
+----------------------------------- 
+Download the repo:  
 
-Step 1:
-download git bash for window to use the bash
+Step 1:  
+download git bash for window to use the bash  
 
-Step 2: run the following command in the place that you want to store the git repo
-cd /c
-mkdir ava_coding
-cd ava_coding
-git clone https://github.com/KarsonNgai/newbie_study_area.git
+Step 2: run the following command in the place that you want to store the git repo  
+cd /c  
+mkdir ava_coding  
+cd ava_coding  
+git clone https://github.com/KarsonNgai/newbie_study_area.git  
 
 
-Step 3: 
-open it, you can use the folder gui to open it
+Step 3:   
+open it, you can use the folder gui to open it  
 
 -------------------------------------
 Task:
