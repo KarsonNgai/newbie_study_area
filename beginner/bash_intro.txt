@@ -1,0 +1,12 @@
+make the note for the follow code
+
+basic command, first, just learn the "cd"
+pwd
+ls
+cd
+mkdir
+touch
+rmdir
+rm
+cp
+

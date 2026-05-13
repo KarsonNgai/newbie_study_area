@@ -1,0 +1,14 @@
+Here is the command that you will need to know, please use AI and google to assist
+
+before coding:
+git fetch
+
+git pull
+
+after coding, you want to save the change=
+git add .
+
+git commit -m "here is the commit message"
+
+git push
+
